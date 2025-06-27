@@ -1,0 +1,15 @@
+C:\Users\jerom\source\repos\TestPXIe6363\TestPXIe6363\obj\Debug\TestPXIe6363.csproj.AssemblyReference.cache
+C:\Users\jerom\source\repos\TestPXIe6363\TestPXIe6363\obj\Debug\TestPXIe6363.Form1.resources
+C:\Users\jerom\source\repos\TestPXIe6363\TestPXIe6363\obj\Debug\TestPXIe6363.Properties.Resources.resources
+C:\Users\jerom\source\repos\TestPXIe6363\TestPXIe6363\obj\Debug\TestPXIe6363.csproj.GenerateResource.cache
+C:\Users\jerom\source\repos\TestPXIe6363\TestPXIe6363\obj\Debug\TestPXIe6363.csproj.CoreCompileInputs.cache
+C:\Users\jerom\source\repos\TestPXIe6363\TestPXIe6363\bin\Debug\TestPXIe6363.exe.config
+C:\Users\jerom\source\repos\TestPXIe6363\TestPXIe6363\bin\Debug\TestPXIe6363.exe
+C:\Users\jerom\source\repos\TestPXIe6363\TestPXIe6363\bin\Debug\TestPXIe6363.pdb
+C:\Users\jerom\source\repos\TestPXIe6363\TestPXIe6363\bin\Debug\NationalInstruments.Common.dll
+C:\Users\jerom\source\repos\TestPXIe6363\TestPXIe6363\bin\Debug\NationalInstruments.DAQmx.dll
+C:\Users\jerom\source\repos\TestPXIe6363\TestPXIe6363\bin\Debug\NationalInstruments.Common.xml
+C:\Users\jerom\source\repos\TestPXIe6363\TestPXIe6363\bin\Debug\NationalInstruments.DAQmx.xml
+C:\Users\jerom\source\repos\TestPXIe6363\TestPXIe6363\obj\Debug\TestPXIe.C0578FCD.Up2Date
+C:\Users\jerom\source\repos\TestPXIe6363\TestPXIe6363\obj\Debug\TestPXIe6363.exe
+C:\Users\jerom\source\repos\TestPXIe6363\TestPXIe6363\obj\Debug\TestPXIe6363.pdb
